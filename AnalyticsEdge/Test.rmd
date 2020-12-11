@@ -1,1 +1,1 @@
-Testing
+This folder is created as a repository for the assignments worked upon in the Analytics Edge course.
