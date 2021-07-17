@@ -1,0 +1,5 @@
+This is a folder created for uploading the Deep Learning Projects using Tensorflow. I intend to put the following projects here
+
+1. Using Artificial Neural Networks to predict Regression as well as Classification.
+2. Using Convolutional Neural Networks for Image Classification.
+3. Using Long and Short Term Memory Networks for Stock price prediction 
